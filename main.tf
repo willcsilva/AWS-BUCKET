@@ -15,8 +15,8 @@ provider "aws" {
 
   default_tags {
     tags = {
-      owner       = "Nethub"
-      mangaged-by = "Terraform"
+      owner       = "????"
+      mangaged-by = "????"
     }
   }
 }
